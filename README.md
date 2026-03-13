@@ -14,7 +14,7 @@ DevMind automates the entire code review process using AI — just paste a GitHu
 -  **Automated Code Review** — AI analyzes every changed file
 -  **Bug Detection** — Identifies potential bugs and errors
 -  **Security Analysis** — Flags security vulnerabilities
-- ⚡ **Performance Review** — Suggests performance improvements
+-  **Performance Review** — Suggests performance improvements
 -  **Auto PR Description** — Generates professional PR descriptions
 -  **Quality Score** — Gives a 0-100 quality score
 
